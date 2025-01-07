@@ -9,10 +9,10 @@ class Database{
         $this->pdo = new PDO($dsn);
         $this->pdo->setAttribute(19, 2);
     }
-        public function query($sql){
+        public function query($sql, $params){
             $statement = $this->pdo->prepare($sql);
 
-            $statement->execute();
+            $statement->execute($params);
             return $statement;
         }
 }
