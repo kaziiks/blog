@@ -1,0 +1,17 @@
+body{
+    margin : 0;
+}
+
+header ul{
+    display: flex;
+    gap: 20px;
+}
+ header{
+    border-bottom: 1px solid black;
+}
+header ul li{
+    padding: 7px 10px;
+}
+ul{
+  list-style: symbols(cyclic "\1F347"); 
+}
