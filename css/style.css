@@ -2,16 +2,16 @@ body{
     margin : 0;
 }
 
+header{
+    border-bottom: 1px solid black;
+}
+
 header ul{
     display: flex;
     gap: 20px;
 }
- header{
-    border-bottom: 1px solid black;
-}
+
 header ul li{
+    list-style-type: "✧"; 
     padding: 7px 10px;
-}
-ul{
-  list-style: symbols(cyclic "\1F347"); 
 }

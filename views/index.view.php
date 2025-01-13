@@ -7,7 +7,7 @@
         <button>meklet</button>
     </form>
     <?php if (count($posts) == 0){ ?>
-    <p>mekle talak fentanyl (george droydam palidzi :3)</p>
+    <p>palidzi george droid, mekle talak fentanyl :3</p>
     <?php } ?>
 
 <ul>
