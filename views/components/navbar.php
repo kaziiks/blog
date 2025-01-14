@@ -1,8 +1,8 @@
 <header>
     <nav>
         <ul>
-            <li><a href = "/" >FEnt</a></li>
-            <li><a href = "/about" >FeNt</a></li>
+            <li><a href = "/" >1g Fent</a></li>
+            <li><a href = "/about" >2g Fent</a></li>
         </ul>
     </nav>
-</header
+</header>

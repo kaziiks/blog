@@ -1,5 +1,5 @@
 <?php
-include "helper.php";
+include "functions.php";
 include "database.php";
 
 $config = require ("config.php");
